@@ -1,4 +1,4 @@
-# Morpheus-computation
+# Morpheus-computation Practice
 This demo assesses the performance of CEU’s Morpheus cluster and shows how parallelization boosts efficiency. By benchmarking tasks and comparing scaling methods, it highlights strengths, bottlenecks, and how parallel processing reduces computation time.
 
 # What is Morpheus?
